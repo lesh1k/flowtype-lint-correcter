@@ -1,0 +1,1725 @@
+/path/to/file/with/lint/errors
+  6:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  5:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsChildWeekTransactionalAccountReport.js
+  6:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   6:10  error  Missing return type annotation  flowtype/require-return-type
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  6:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  27:21  error  Missing return type annotation  flowtype/require-return-type
+  35:17  error  Missing return type annotation  flowtype/require-return-type
+  42:18  error  Missing return type annotation  flowtype/require-return-type
+  48:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  27:21  error  Missing return type annotation  flowtype/require-return-type
+  35:17  error  Missing return type annotation  flowtype/require-return-type
+  42:18  error  Missing return type annotation  flowtype/require-return-type
+  48:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+  17:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  18:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  31:10  error  Missing return type annotation  flowtype/require-return-type
+  41:14  error  Missing return type annotation  flowtype/require-return-type
+  45:12  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:10  error  Missing return type annotation  flowtype/require-return-type
+  35:10  error  Missing return type annotation  flowtype/require-return-type
+  52:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsAddChildAllowanceAmountContainer.js
+  16:10  error  Missing return type annotation  flowtype/require-return-type
+  28:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  30:10  error  Missing return type annotation  flowtype/require-return-type
+  82:14  error  Missing return type annotation  flowtype/require-return-type
+  91:27  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  32:10  error  Missing return type annotation  flowtype/require-return-type
+  80:17  error  Missing return type annotation  flowtype/require-return-type
+  91:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  18:10  error  Missing return type annotation  flowtype/require-return-type
+  32:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  23:10  error  Missing return type annotation  flowtype/require-return-type
+  42:19  error  Missing return type annotation  flowtype/require-return-type
+  47:27  error  Missing return type annotation  flowtype/require-return-type
+  88:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   47:10  error  Missing return type annotation  flowtype/require-return-type
+   70:15  error  Missing return type annotation  flowtype/require-return-type
+   79:14  error  Missing return type annotation  flowtype/require-return-type
+   95:19  error  Missing return type annotation  flowtype/require-return-type
+  109:22  error  Missing return type annotation  flowtype/require-return-type
+  119:31  error  Missing return type annotation  flowtype/require-return-type
+  130:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  54:10  error  Missing return type annotation  flowtype/require-return-type
+  77:15  error  Missing return type annotation  flowtype/require-return-type
+  84:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  16:10  error  Missing return type annotation  flowtype/require-return-type
+  20:21  error  Missing return type annotation  flowtype/require-return-type
+  28:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  29:24  error  Missing return type annotation  flowtype/require-return-type
+  33:10  error  Missing return type annotation  flowtype/require-return-type
+  48:21  error  Missing return type annotation  flowtype/require-return-type
+  53:18  error  Missing return type annotation  flowtype/require-return-type
+  66:12  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  22:21  error  Missing return type annotation  flowtype/require-return-type
+  26:10  error  Missing return type annotation  flowtype/require-return-type
+  33:15  error  Missing return type annotation  flowtype/require-return-type
+  47:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  20:21  error  Missing return type annotation  flowtype/require-return-type
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   42:21  error  Missing return type annotation  flowtype/require-return-type
+   47:28  error  Missing return type annotation  flowtype/require-return-type
+   68:22  error  Missing return type annotation  flowtype/require-return-type
+   86:22  error  Missing return type annotation  flowtype/require-return-type
+  109:10  error  Missing return type annotation  flowtype/require-return-type
+  114:29  error  Missing return type annotation  flowtype/require-return-type
+  140:21  error  Missing return type annotation  flowtype/require-return-type
+  199:15  error  Missing return type annotation  flowtype/require-return-type
+  209:19  error  Missing return type annotation  flowtype/require-return-type
+  215:20  error  Missing return type annotation  flowtype/require-return-type
+  221:18  error  Missing return type annotation  flowtype/require-return-type
+  227:28  error  Missing return type annotation  flowtype/require-return-type
+  232:35  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  40:21  error  Missing return type annotation  flowtype/require-return-type
+  46:10  error  Missing return type annotation  flowtype/require-return-type
+  93:14  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   83:10  error  Missing return type annotation  flowtype/require-return-type
+  108:22  error  Missing return type annotation  flowtype/require-return-type
+  118:21  error  Missing return type annotation  flowtype/require-return-type
+  126:21  error  Missing return type annotation  flowtype/require-return-type
+  154:11  error  Missing return type annotation  flowtype/require-return-type
+  165:20  error  Missing return type annotation  flowtype/require-return-type
+  213:16  error  Missing return type annotation  flowtype/require-return-type
+  232:20  error  Missing return type annotation  flowtype/require-return-type
+  304:22  error  Missing return type annotation  flowtype/require-return-type
+  320:16  error  Missing return type annotation  flowtype/require-return-type
+  331:13  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  27:10  error  Missing return type annotation  flowtype/require-return-type
+  61:16  error  Missing return type annotation  flowtype/require-return-type
+  77:19  error  Missing return type annotation  flowtype/require-return-type
+  81:14  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  83:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   64:10  error  Missing return type annotation  flowtype/require-return-type
+   92:20  error  Missing return type annotation  flowtype/require-return-type
+  102:13  error  Missing return type annotation  flowtype/require-return-type
+  118:16  error  Missing return type annotation  flowtype/require-return-type
+  134:23  error  Missing return type annotation  flowtype/require-return-type
+  141:24  error  Missing return type annotation  flowtype/require-return-type
+  150:24  error  Missing return type annotation  flowtype/require-return-type
+  158:15  error  Missing return type annotation  flowtype/require-return-type
+  165:26  error  Missing return type annotation  flowtype/require-return-type
+  169:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  22:10  error  Missing return type annotation  flowtype/require-return-type
+  37:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  16:10  error  Missing return type annotation  flowtype/require-return-type
+  27:12  error  Missing return type annotation  flowtype/require-return-type
+  41:15  error  Missing return type annotation  flowtype/require-return-type
+  55:15  error  Missing return type annotation  flowtype/require-return-type
+  69:18  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  38:10  error  Missing return type annotation  flowtype/require-return-type
+  79:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  7:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  22:10  error  Missing return type annotation  flowtype/require-return-type
+  52:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  16:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  31:10  error  Missing return type annotation  flowtype/require-return-type
+  46:24  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+  19:17  error  Missing return type annotation  flowtype/require-return-type
+  28:10  error  Missing return type annotation  flowtype/require-return-type
+  35:17  error  Missing return type annotation  flowtype/require-return-type
+  44:10  error  Missing return type annotation  flowtype/require-return-type
+  49:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   14:10  error  Missing return type annotation  flowtype/require-return-type
+   26:14  error  Missing return type annotation  flowtype/require-return-type
+   35:26  error  Missing return type annotation  flowtype/require-return-type
+   43:26  error  Missing return type annotation  flowtype/require-return-type
+   53:15  error  Missing return type annotation  flowtype/require-return-type
+   68:18  error  Missing return type annotation  flowtype/require-return-type
+   92:22  error  Missing return type annotation  flowtype/require-return-type
+  117:20  error  Missing return type annotation  flowtype/require-return-type
+  131:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   18:10  error  Missing return type annotation  flowtype/require-return-type
+   28:21  error  Missing return type annotation  flowtype/require-return-type
+   47:16  error  Missing return type annotation  flowtype/require-return-type
+   54:19  error  Missing return type annotation  flowtype/require-return-type
+   83:16  error  Missing return type annotation  flowtype/require-return-type
+   92:19  error  Missing return type annotation  flowtype/require-return-type
+  110:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   83:25  error  Missing return type annotation  flowtype/require-return-type
+   87:20  error  Missing return type annotation  flowtype/require-return-type
+  148:14  error  Missing return type annotation  flowtype/require-return-type
+  151:14  error  Missing return type annotation  flowtype/require-return-type
+  162:14  error  Missing return type annotation  flowtype/require-return-type
+  165:14  error  Missing return type annotation  flowtype/require-return-type
+  176:14  error  Missing return type annotation  flowtype/require-return-type
+  179:14  error  Missing return type annotation  flowtype/require-return-type
+  300:13  error  Missing return type annotation  flowtype/require-return-type
+  307:15  error  Missing return type annotation  flowtype/require-return-type
+  316:10  error  Missing return type annotation  flowtype/require-return-type
+  340:18  error  Missing return type annotation  flowtype/require-return-type
+  349:16  error  Missing return type annotation  flowtype/require-return-type
+  363:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  20:22  error  Missing return type annotation  flowtype/require-return-type
+  33:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  37:37  error  Missing return type annotation  flowtype/require-return-type
+  44:10  error  Missing return type annotation  flowtype/require-return-type
+  79:13  error  Missing return type annotation  flowtype/require-return-type
+  87:56  error  Missing return type annotation  flowtype/require-return-type
+  92:58  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  46:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  27:21  error  Missing return type annotation  flowtype/require-return-type
+  35:17  error  Missing return type annotation  flowtype/require-return-type
+  42:18  error  Missing return type annotation  flowtype/require-return-type
+  48:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   62:10  error  Missing return type annotation  flowtype/require-return-type
+  141:23  error  Missing return type annotation  flowtype/require-return-type
+  161:23  error  Missing return type annotation  flowtype/require-return-type
+  180:24  error  Missing return type annotation  flowtype/require-return-type
+  197:11  error  Missing return type annotation  flowtype/require-return-type
+  231:13  error  Missing return type annotation  flowtype/require-return-type
+  235:26  error  Missing return type annotation  flowtype/require-return-type
+  247:19  error  Missing return type annotation  flowtype/require-return-type
+  255:19  error  Missing return type annotation  flowtype/require-return-type
+  263:21  error  Missing return type annotation  flowtype/require-return-type
+  272:18  error  Missing return type annotation  flowtype/require-return-type
+  282:16  error  Missing return type annotation  flowtype/require-return-type
+  292:19  error  Missing return type annotation  flowtype/require-return-type
+  302:19  error  Missing return type annotation  flowtype/require-return-type
+  312:20  error  Missing return type annotation  flowtype/require-return-type
+  322:17  error  Missing return type annotation  flowtype/require-return-type
+  332:19  error  Missing return type annotation  flowtype/require-return-type
+  342:28  error  Missing return type annotation  flowtype/require-return-type
+  350:32  error  Missing return type annotation  flowtype/require-return-type
+  359:21  error  Missing return type annotation  flowtype/require-return-type
+  369:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  32:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   46:10  error  Missing return type annotation  flowtype/require-return-type
+   65:25  error  Missing return type annotation  flowtype/require-return-type
+   69:36  error  Missing return type annotation  flowtype/require-return-type
+   82:12  error  Missing return type annotation  flowtype/require-return-type
+  132:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  22:10  error  Missing return type annotation  flowtype/require-return-type
+  40:34  error  Missing return type annotation  flowtype/require-return-type
+  62:24  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsChildDashboardEventListItemImageComponent.js
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+  20:17  error  Missing return type annotation  flowtype/require-return-type
+  26:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  48:10  error  Missing return type annotation  flowtype/require-return-type
+  55:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  33:10  error  Missing return type annotation  flowtype/require-return-type
+  42:25  error  Missing return type annotation  flowtype/require-return-type
+  58:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+  66:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+  16:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsChildDashboardGoalListForParent.js
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  17:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  56:22  error  Missing return type annotation  flowtype/require-return-type
+  65:10  error  Missing return type annotation  flowtype/require-return-type
+  90:14  error  Missing return type annotation  flowtype/require-return-type
+  94:15  error  Missing return type annotation  flowtype/require-return-type
+  99:22  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  27:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   23:10  error  Missing return type annotation  flowtype/require-return-type
+   40:22  error  Missing return type annotation  flowtype/require-return-type
+   52:18  error  Missing return type annotation  flowtype/require-return-type
+   62:21  error  Missing return type annotation  flowtype/require-return-type
+   71:21  error  Missing return type annotation  flowtype/require-return-type
+   79:12  error  Missing return type annotation  flowtype/require-return-type
+   86:15  error  Missing return type annotation  flowtype/require-return-type
+   94:19  error  Missing return type annotation  flowtype/require-return-type
+   99:17  error  Missing return type annotation  flowtype/require-return-type
+  104:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   35:10  error  Missing return type annotation  flowtype/require-return-type
+   44:15  error  Missing return type annotation  flowtype/require-return-type
+   84:10  error  Missing return type annotation  flowtype/require-return-type
+  146:11  error  Missing return type annotation  flowtype/require-return-type
+  150:25  error  Missing return type annotation  flowtype/require-return-type
+  169:10  error  Missing return type annotation  flowtype/require-return-type
+  197:20  error  Missing return type annotation  flowtype/require-return-type
+  211:25  error  Missing return type annotation  flowtype/require-return-type
+  251:16  error  Missing return type annotation  flowtype/require-return-type
+  271:20  error  Missing return type annotation  flowtype/require-return-type
+  292:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:10  error  Missing return type annotation  flowtype/require-return-type
+  32:18  error  Missing return type annotation  flowtype/require-return-type
+  43:15  error  Missing return type annotation  flowtype/require-return-type
+  59:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsChildDashboardTaskListForParent.js
+  19:10  error  Missing return type annotation  flowtype/require-return-type
+  48:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  31:10  error  Missing return type annotation  flowtype/require-return-type
+  38:11  error  Missing return type annotation  flowtype/require-return-type
+  63:18  error  Missing return type annotation  flowtype/require-return-type
+  69:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+  49:14  error  Missing return type annotation  flowtype/require-return-type
+  57:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  42:10  error  Missing return type annotation  flowtype/require-return-type
+  85:18  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:10  error  Missing return type annotation  flowtype/require-return-type
+  38:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   52:10  error  Missing return type annotation  flowtype/require-return-type
+  122:30  error  Missing return type annotation  flowtype/require-return-type
+  210:23  error  Missing return type annotation  flowtype/require-return-type
+  237:21  error  Missing return type annotation  flowtype/require-return-type
+  244:28  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   54:21  error  Missing return type annotation  flowtype/require-return-type
+   60:10  error  Missing return type annotation  flowtype/require-return-type
+  260:16  error  Missing return type annotation  flowtype/require-return-type
+  278:18  error  Missing return type annotation  flowtype/require-return-type
+  300:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  34:10  error  Missing return type annotation  flowtype/require-return-type
+  78:21  error  Missing return type annotation  flowtype/require-return-type
+  84:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:10  error  Missing return type annotation  flowtype/require-return-type
+  49:20  error  Missing return type annotation  flowtype/require-return-type
+  61:18  error  Missing return type annotation  flowtype/require-return-type
+  65:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+  28:13  error  Missing return type annotation  flowtype/require-return-type
+  36:22  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsChildWeekTransactionalAccountReport.js
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsChildWeekTransactionalAccountReportForPopover.js
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsChildWeekTransactionalAccountReportTrustlyPopover.js
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+  30:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+  41:10  error  Missing return type annotation  flowtype/require-return-type
+  62:12  error  Missing return type annotation  flowtype/require-return-type
+  72:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  22:18  error  Missing return type annotation  flowtype/require-return-type
+  26:14  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  9:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  16:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  8:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  25:13  error  Missing return type annotation  flowtype/require-return-type
+  33:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  26:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  31:27  error  Missing return type annotation  flowtype/require-return-type
+  42:20  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:10  error  Missing return type annotation  flowtype/require-return-type
+  25:32  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsConnectToCreatedAndLinkedChildContainer.js
+  28:21  error  Missing return type annotation  flowtype/require-return-type
+  35:10  error  Missing return type annotation  flowtype/require-return-type
+  42:15  error  Missing return type annotation  flowtype/require-return-type
+  49:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsConnectToCreatedNotLinkedChildWhenLoggedInContainer.js
+  31:21  error  Missing return type annotation  flowtype/require-return-type
+  37:10  error  Missing return type annotation  flowtype/require-return-type
+  44:16  error  Missing return type annotation  flowtype/require-return-type
+  58:10  error  Missing return type annotation  flowtype/require-return-type
+  73:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsConnectToParentWhenLoggedInContainer.js
+  32:23  error  Missing return type annotation  flowtype/require-return-type
+  40:10  error  Missing return type annotation  flowtype/require-return-type
+  46:17  error  Missing return type annotation  flowtype/require-return-type
+  51:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsConnectToParentWhenLoggedOutContainer.js
+  33:21  error  Missing return type annotation  flowtype/require-return-type
+  39:10  error  Missing return type annotation  flowtype/require-return-type
+  49:10  error  Missing return type annotation  flowtype/require-return-type
+  62:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  23:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   61:19  error  Missing return type annotation  flowtype/require-return-type
+   66:10  error  Missing return type annotation  flowtype/require-return-type
+   70:24  error  Missing return type annotation  flowtype/require-return-type
+  133:16  error  Missing return type annotation  flowtype/require-return-type
+  143:17  error  Missing return type annotation  flowtype/require-return-type
+  151:12  error  Missing return type annotation  flowtype/require-return-type
+  159:14  error  Missing return type annotation  flowtype/require-return-type
+  169:18  error  Missing return type annotation  flowtype/require-return-type
+  212:24  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   8:10  error  Missing return type annotation  flowtype/require-return-type
+  13:11  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsDashboardNotificationHelperComponent.js
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+  18:29  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+  30:13  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  41:10  error  Missing return type annotation  flowtype/require-return-type
+  45:29  error  Missing return type annotation  flowtype/require-return-type
+  74:26  error  Missing return type annotation  flowtype/require-return-type
+  78:31  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  36:13  error  Missing return type annotation  flowtype/require-return-type
+  50:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  26:10  error  Missing return type annotation  flowtype/require-return-type
+  61:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   39:10  error  Missing return type annotation  flowtype/require-return-type
+   50:16  error  Missing return type annotation  flowtype/require-return-type
+   56:22  error  Missing return type annotation  flowtype/require-return-type
+  102:20  error  Missing return type annotation  flowtype/require-return-type
+  111:17  error  Missing return type annotation  flowtype/require-return-type
+  127:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   20:10  error  Missing return type annotation  flowtype/require-return-type
+   50:22  error  Missing return type annotation  flowtype/require-return-type
+   58:21  error  Missing return type annotation  flowtype/require-return-type
+   85:21  error  Missing return type annotation  flowtype/require-return-type
+   96:19  error  Missing return type annotation  flowtype/require-return-type
+  111:21  error  Missing return type annotation  flowtype/require-return-type
+  127:22  error  Missing return type annotation  flowtype/require-return-type
+  137:30  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   61:21  error  Missing return type annotation  flowtype/require-return-type
+   65:25  error  Missing return type annotation  flowtype/require-return-type
+   69:10  error  Missing return type annotation  flowtype/require-return-type
+  147:21  error  Missing return type annotation  flowtype/require-return-type
+  164:22  error  Missing return type annotation  flowtype/require-return-type
+  180:20  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  29:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   23:10  error  Missing return type annotation  flowtype/require-return-type
+  123:13  error  Missing return type annotation  flowtype/require-return-type
+  140:18  error  Missing return type annotation  flowtype/require-return-type
+  166:15  error  Missing return type annotation  flowtype/require-return-type
+  177:15  error  Missing return type annotation  flowtype/require-return-type
+  185:16  error  Missing return type annotation  flowtype/require-return-type
+  192:16  error  Missing return type annotation  flowtype/require-return-type
+  204:20  error  Missing return type annotation  flowtype/require-return-type
+  222:19  error  Missing return type annotation  flowtype/require-return-type
+  226:13  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  27:18  error  Missing return type annotation  flowtype/require-return-type
+  38:15  error  Missing return type annotation  flowtype/require-return-type
+  48:16  error  Missing return type annotation  flowtype/require-return-type
+  60:17  error  Missing return type annotation  flowtype/require-return-type
+  67:15  error  Missing return type annotation  flowtype/require-return-type
+  74:16  error  Missing return type annotation  flowtype/require-return-type
+  81:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  33:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   9:10  error  Missing return type annotation  flowtype/require-return-type
+  14:11  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  18:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  10:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   24:10  error  Missing return type annotation  flowtype/require-return-type
+  105:13  error  Missing return type annotation  flowtype/require-return-type
+  112:13  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  49:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   33:10  error  Missing return type annotation  flowtype/require-return-type
+   70:19  error  Missing return type annotation  flowtype/require-return-type
+   97:13  error  Missing return type annotation  flowtype/require-return-type
+  110:19  error  Missing return type annotation  flowtype/require-return-type
+  114:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  40:10  error  Missing return type annotation  flowtype/require-return-type
+  58:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+  32:15  error  Missing return type annotation  flowtype/require-return-type
+  42:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsEditChildAllowanceAmountContainer.js
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+  25:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  20:26  error  Missing return type annotation  flowtype/require-return-type
+  25:18  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  28:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+  32:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+  32:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   65:10  error  Missing return type annotation  flowtype/require-return-type
+   96:20  error  Missing return type annotation  flowtype/require-return-type
+  107:11  error  Missing return type annotation  flowtype/require-return-type
+  140:13  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   52:10  error  Missing return type annotation  flowtype/require-return-type
+   80:16  error  Missing return type annotation  flowtype/require-return-type
+  100:26  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  33:10  error  Missing return type annotation  flowtype/require-return-type
+  55:20  error  Missing return type annotation  flowtype/require-return-type
+  65:20  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  31:10  error  Missing return type annotation  flowtype/require-return-type
+  69:11  error  Missing return type annotation  flowtype/require-return-type
+  78:11  error  Missing return type annotation  flowtype/require-return-type
+  83:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  52:10  error  Missing return type annotation  flowtype/require-return-type
+  76:16  error  Missing return type annotation  flowtype/require-return-type
+  99:26  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   30:10  error  Missing return type annotation  flowtype/require-return-type
+   67:19  error  Missing return type annotation  flowtype/require-return-type
+   86:15  error  Missing return type annotation  flowtype/require-return-type
+  105:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   69:10  error  Missing return type annotation  flowtype/require-return-type
+  118:20  error  Missing return type annotation  flowtype/require-return-type
+  131:11  error  Missing return type annotation  flowtype/require-return-type
+  138:16  error  Missing return type annotation  flowtype/require-return-type
+  166:13  error  Missing return type annotation  flowtype/require-return-type
+  171:14  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   52:10  error  Missing return type annotation  flowtype/require-return-type
+   80:16  error  Missing return type annotation  flowtype/require-return-type
+  100:26  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  58:12  error  Missing return type annotation  flowtype/require-return-type
+  69:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  9:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  31:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  29:21  error  Missing return type annotation  flowtype/require-return-type
+  35:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   8:10  error  Missing return type annotation  flowtype/require-return-type
+  13:11  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  9:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  7:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+  25:23  error  Missing return type annotation  flowtype/require-return-type
+  35:22  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  37:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   38:21  error  Missing return type annotation  flowtype/require-return-type
+   43:28  error  Missing return type annotation  flowtype/require-return-type
+   65:19  error  Missing return type annotation  flowtype/require-return-type
+   78:10  error  Missing return type annotation  flowtype/require-return-type
+  117:16  error  Missing return type annotation  flowtype/require-return-type
+  154:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  8:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  35:10  error  Missing return type annotation  flowtype/require-return-type
+  81:14  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  6:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  26:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  22:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsInviteParentWhenLoggedInContainer.js
+  31:21  error  Missing return type annotation  flowtype/require-return-type
+  37:10  error  Missing return type annotation  flowtype/require-return-type
+  43:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  40:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  9:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  29:10  error  Missing return type annotation  flowtype/require-return-type
+  46:19  error  Missing return type annotation  flowtype/require-return-type
+  60:16  error  Missing return type annotation  flowtype/require-return-type
+  68:17  error  Missing return type annotation  flowtype/require-return-type
+  74:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   8:10  error  Missing return type annotation  flowtype/require-return-type
+  13:11  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  20:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  20:16  error  Missing return type annotation  flowtype/require-return-type
+  33:31  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  27:10  error  Missing return type annotation  flowtype/require-return-type
+  38:22  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   34:21  error  Missing return type annotation  flowtype/require-return-type
+   43:36  error  Missing return type annotation  flowtype/require-return-type
+   56:37  error  Missing return type annotation  flowtype/require-return-type
+   67:10  error  Missing return type annotation  flowtype/require-return-type
+   75:41  error  Missing return type annotation  flowtype/require-return-type
+   80:50  error  Missing return type annotation  flowtype/require-return-type
+  103:33  error  Missing return type annotation  flowtype/require-return-type
+  115:41  error  Missing return type annotation  flowtype/require-return-type
+  134:40  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  22:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  32:10  error  Missing return type annotation  flowtype/require-return-type
+  43:18  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  9:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  8:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  32:10  error  Missing return type annotation  flowtype/require-return-type
+  61:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  28:10  error  Missing return type annotation  flowtype/require-return-type
+  34:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+  17:31  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  10:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   48:13  error  Missing return type annotation  flowtype/require-return-type
+   64:16  error  Missing return type annotation  flowtype/require-return-type
+   76:10  error  Missing return type annotation  flowtype/require-return-type
+  109:22  error  Missing return type annotation  flowtype/require-return-type
+  114:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   36:10  error  Missing return type annotation  flowtype/require-return-type
+   55:19  error  Missing return type annotation  flowtype/require-return-type
+  111:19  error  Missing return type annotation  flowtype/require-return-type
+  125:10  error  Missing return type annotation  flowtype/require-return-type
+  145:19  error  Missing return type annotation  flowtype/require-return-type
+  167:10  error  Missing return type annotation  flowtype/require-return-type
+  258:18  error  Missing return type annotation  flowtype/require-return-type
+  276:10  error  Missing return type annotation  flowtype/require-return-type
+  347:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:25  error  Missing return type annotation  flowtype/require-return-type
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   25:10  error  Missing return type annotation  flowtype/require-return-type
+   47:10  error  Missing return type annotation  flowtype/require-return-type
+   57:22  error  Missing return type annotation  flowtype/require-return-type
+   73:18  error  Missing return type annotation  flowtype/require-return-type
+   90:17  error  Missing return type annotation  flowtype/require-return-type
+  113:24  error  Missing return type annotation  flowtype/require-return-type
+  158:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   53:10  error  Missing return type annotation  flowtype/require-return-type
+  105:23  error  Missing return type annotation  flowtype/require-return-type
+  115:17  error  Missing return type annotation  flowtype/require-return-type
+  134:25  error  Missing return type annotation  flowtype/require-return-type
+  151:15  error  Missing return type annotation  flowtype/require-return-type
+  170:15  error  Missing return type annotation  flowtype/require-return-type
+  188:31  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  16:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+  31:16  error  Missing return type annotation  flowtype/require-return-type
+  42:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+  26:21  error  Missing return type annotation  flowtype/require-return-type
+  34:17  error  Missing return type annotation  flowtype/require-return-type
+  41:18  error  Missing return type annotation  flowtype/require-return-type
+  47:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  39:10  error  Missing return type annotation  flowtype/require-return-type
+  81:18  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   64:10  error  Missing return type annotation  flowtype/require-return-type
+  173:28  error  Missing return type annotation  flowtype/require-return-type
+  180:19  error  Missing return type annotation  flowtype/require-return-type
+  195:21  error  Missing return type annotation  flowtype/require-return-type
+  347:18  error  Missing return type annotation  flowtype/require-return-type
+  369:26  error  Missing return type annotation  flowtype/require-return-type
+  406:23  error  Missing return type annotation  flowtype/require-return-type
+  412:28  error  Missing return type annotation  flowtype/require-return-type
+  416:27  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  31:22  error  Missing return type annotation  flowtype/require-return-type
+  37:21  error  Missing return type annotation  flowtype/require-return-type
+  42:10  error  Missing return type annotation  flowtype/require-return-type
+  69:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   9:10  error  Missing return type annotation  flowtype/require-return-type
+  18:21  error  Missing return type annotation  flowtype/require-return-type
+  26:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  33:10  error  Missing return type annotation  flowtype/require-return-type
+  46:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   76:17  error  Must not annotate undefined return type  flowtype/require-return-type
+  155:12  error  Missing return type annotation           flowtype/require-return-type
+  172:11  error  Missing return type annotation           flowtype/require-return-type
+  185:18  error  Missing return type annotation           flowtype/require-return-type
+  200:10  error  Missing return type annotation           flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsPopoverMiniComponentApproveTaskForm.js
+  32:10  error  Missing return type annotation  flowtype/require-return-type
+  47:19  error  Missing return type annotation  flowtype/require-return-type
+  53:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   26:10  error  Missing return type annotation  flowtype/require-return-type
+   35:19  error  Missing return type annotation  flowtype/require-return-type
+   51:13  error  Missing return type annotation  flowtype/require-return-type
+   75:17  error  Missing return type annotation  flowtype/require-return-type
+   90:23  error  Missing return type annotation  flowtype/require-return-type
+  103:13  error  Missing return type annotation  flowtype/require-return-type
+  138:15  error  Missing return type annotation  flowtype/require-return-type
+  171:15  error  Missing return type annotation  flowtype/require-return-type
+  188:15  error  Missing return type annotation  flowtype/require-return-type
+  226:19  error  Missing return type annotation  flowtype/require-return-type
+  230:13  error  Missing return type annotation  flowtype/require-return-type
+  236:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  9:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   33:21  error  Missing return type annotation  flowtype/require-return-type
+   37:10  error  Missing return type annotation  flowtype/require-return-type
+   72:17  error  Missing return type annotation  flowtype/require-return-type
+   84:11  error  Missing return type annotation  flowtype/require-return-type
+  116:19  error  Missing return type annotation  flowtype/require-return-type
+  142:24  error  Missing return type annotation  flowtype/require-return-type
+  150:22  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  18:21  error  Missing return type annotation  flowtype/require-return-type
+  24:27  error  Missing return type annotation  flowtype/require-return-type
+  33:10  error  Missing return type annotation  flowtype/require-return-type
+  51:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+  40:26  error  Missing return type annotation  flowtype/require-return-type
+  64:20  error  Missing return type annotation  flowtype/require-return-type
+  74:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   27:12  error  Missing return type annotation  flowtype/require-return-type
+   52:10  error  Missing return type annotation  flowtype/require-return-type
+   59:14  error  Missing return type annotation  flowtype/require-return-type
+   69:11  error  Missing return type annotation  flowtype/require-return-type
+   82:18  error  Missing return type annotation  flowtype/require-return-type
+  109:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   24:10  error  Missing return type annotation  flowtype/require-return-type
+   57:19  error  Missing return type annotation  flowtype/require-return-type
+   69:16  error  Missing return type annotation  flowtype/require-return-type
+   77:21  error  Missing return type annotation  flowtype/require-return-type
+   87:19  error  Missing return type annotation  flowtype/require-return-type
+   98:16  error  Missing return type annotation  flowtype/require-return-type
+  102:24  error  Missing return type annotation  flowtype/require-return-type
+  110:20  error  Missing return type annotation  flowtype/require-return-type
+  116:23  error  Missing return type annotation  flowtype/require-return-type
+  192:14  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  7:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  70:16  error  Missing return type annotation  flowtype/require-return-type
+  76:10  error  Missing return type annotation  flowtype/require-return-type
+  87:24  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:21  error  Missing return type annotation  flowtype/require-return-type
+  18:10  error  Missing return type annotation  flowtype/require-return-type
+  29:21  error  Missing return type annotation  flowtype/require-return-type
+  35:10  error  Missing return type annotation  flowtype/require-return-type
+  44:21  error  Missing return type annotation  flowtype/require-return-type
+  50:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:21  error  Missing return type annotation  flowtype/require-return-type
+  21:10  error  Missing return type annotation  flowtype/require-return-type
+  37:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  38:22  error  Missing return type annotation  flowtype/require-return-type
+  49:24  error  Missing return type annotation  flowtype/require-return-type
+  67:10  error  Missing return type annotation  flowtype/require-return-type
+  87:11  error  Missing return type annotation  flowtype/require-return-type
+  91:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  18:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  7:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  20:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  27:22  error  Missing return type annotation  flowtype/require-return-type
+  39:12  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:10  error  Missing return type annotation  flowtype/require-return-type
+  39:28  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:10  error  Missing return type annotation  flowtype/require-return-type
+  40:28  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   26:10  error  Missing return type annotation  flowtype/require-return-type
+   60:10  error  Missing return type annotation  flowtype/require-return-type
+   97:17  error  Missing return type annotation  flowtype/require-return-type
+  144:27  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  23:28  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:10  error  Missing return type annotation  flowtype/require-return-type
+  36:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  18:10  error  Missing return type annotation  flowtype/require-return-type
+  32:28  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  32:10  error  Missing return type annotation  flowtype/require-return-type
+  54:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  16:10  error  Missing return type annotation  flowtype/require-return-type
+  32:27  error  Missing return type annotation  flowtype/require-return-type
+  41:20  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  20:10  error  Missing return type annotation  flowtype/require-return-type
+  37:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  28:10  error  Missing return type annotation  flowtype/require-return-type
+  33:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:10  error  Missing return type annotation  flowtype/require-return-type
+  31:12  error  Missing return type annotation  flowtype/require-return-type
+  44:14  error  Missing return type annotation  flowtype/require-return-type
+  56:11  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+  28:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:23  error  Missing return type annotation  flowtype/require-return-type
+  23:10  error  Missing return type annotation  flowtype/require-return-type
+  85:11  error  Missing return type annotation  flowtype/require-return-type
+  89:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  20:23  error  Missing return type annotation  flowtype/require-return-type
+  24:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  7:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  7:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   50:21  error  Missing return type annotation  flowtype/require-return-type
+   56:10  error  Missing return type annotation  flowtype/require-return-type
+  109:15  error  Missing return type annotation  flowtype/require-return-type
+  114:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  46:21  error  Missing return type annotation  flowtype/require-return-type
+  52:10  error  Missing return type annotation  flowtype/require-return-type
+  91:15  error  Missing return type annotation  flowtype/require-return-type
+  96:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   26:10  error  Missing return type annotation  flowtype/require-return-type
+   49:23  error  Missing return type annotation  flowtype/require-return-type
+   57:20  error  Missing return type annotation  flowtype/require-return-type
+   95:17  error  Missing return type annotation  flowtype/require-return-type
+  103:15  error  Missing return type annotation  flowtype/require-return-type
+  124:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  36:21  error  Missing return type annotation  flowtype/require-return-type
+  42:28  error  Missing return type annotation  flowtype/require-return-type
+  70:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   20:10  error  Missing return type annotation  flowtype/require-return-type
+   32:20  error  Missing return type annotation  flowtype/require-return-type
+   58:16  error  Missing return type annotation  flowtype/require-return-type
+   67:26  error  Missing return type annotation  flowtype/require-return-type
+   77:26  error  Missing return type annotation  flowtype/require-return-type
+   96:27  error  Missing return type annotation  flowtype/require-return-type
+  124:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   55:10  error  Missing return type annotation  flowtype/require-return-type
+   65:16  error  Missing return type annotation  flowtype/require-return-type
+   76:20  error  Missing return type annotation  flowtype/require-return-type
+  126:16  error  Missing return type annotation  flowtype/require-return-type
+  135:19  error  Missing return type annotation  flowtype/require-return-type
+  145:20  error  Missing return type annotation  flowtype/require-return-type
+  153:14  error  Missing return type annotation  flowtype/require-return-type
+  172:12  error  Missing return type annotation  flowtype/require-return-type
+  185:27  error  Missing return type annotation  flowtype/require-return-type
+  204:26  error  Missing return type annotation  flowtype/require-return-type
+  214:17  error  Missing return type annotation  flowtype/require-return-type
+  222:26  error  Missing return type annotation  flowtype/require-return-type
+  268:29  error  Missing return type annotation  flowtype/require-return-type
+  277:25  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  26:10  error  Missing return type annotation  flowtype/require-return-type
+  39:17  error  Missing return type annotation  flowtype/require-return-type
+  44:18  error  Missing return type annotation  flowtype/require-return-type
+  57:16  error  Missing return type annotation  flowtype/require-return-type
+  75:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+  28:23  error  Missing return type annotation  flowtype/require-return-type
+  51:12  error  Missing return type annotation  flowtype/require-return-type
+  58:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   24:10  error  Missing return type annotation  flowtype/require-return-type
+   60:25  error  Missing return type annotation  flowtype/require-return-type
+   69:10  error  Missing return type annotation  flowtype/require-return-type
+  101:13  error  Missing return type annotation  flowtype/require-return-type
+  127:28  error  Missing return type annotation  flowtype/require-return-type
+  133:25  error  Missing return type annotation  flowtype/require-return-type
+  143:23  error  Missing return type annotation  flowtype/require-return-type
+  156:24  error  Missing return type annotation  flowtype/require-return-type
+  171:24  error  Missing return type annotation  flowtype/require-return-type
+  179:26  error  Missing return type annotation  flowtype/require-return-type
+  194:23  error  Missing return type annotation  flowtype/require-return-type
+  208:26  error  Missing return type annotation  flowtype/require-return-type
+  216:25  error  Missing return type annotation  flowtype/require-return-type
+  226:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  40:25  error  Missing return type annotation  flowtype/require-return-type
+  44:10  error  Missing return type annotation  flowtype/require-return-type
+  70:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  26:21  error  Missing return type annotation  flowtype/require-return-type
+  30:25  error  Missing return type annotation  flowtype/require-return-type
+  34:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  10:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  10:10  error  Missing return type annotation  flowtype/require-return-type
+  20:18  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+  25:22  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  34:21  error  Missing return type annotation  flowtype/require-return-type
+  44:19  error  Missing return type annotation  flowtype/require-return-type
+  52:12  error  Missing return type annotation  flowtype/require-return-type
+  63:25  error  Missing return type annotation  flowtype/require-return-type
+  75:17  error  Missing return type annotation  flowtype/require-return-type
+  84:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   36:10  error  Missing return type annotation  flowtype/require-return-type
+   63:15  error  Missing return type annotation  flowtype/require-return-type
+   86:11  error  Missing return type annotation  flowtype/require-return-type
+   99:26  error  Missing return type annotation  flowtype/require-return-type
+  107:12  error  Missing return type annotation  flowtype/require-return-type
+  121:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  32:10  error  Missing return type annotation  flowtype/require-return-type
+  51:14  error  Missing return type annotation  flowtype/require-return-type
+  61:15  error  Missing return type annotation  flowtype/require-return-type
+  75:21  error  Missing return type annotation  flowtype/require-return-type
+  88:15  error  Missing return type annotation  flowtype/require-return-type
+  96:11  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsTimeToPayoutToExternalBankAccountTodayPopover.js
+   29:10  error  Missing return type annotation  flowtype/require-return-type
+   46:15  error  Missing return type annotation  flowtype/require-return-type
+   69:14  error  Missing return type annotation  flowtype/require-return-type
+   79:15  error  Missing return type annotation  flowtype/require-return-type
+   87:11  error  Missing return type annotation  flowtype/require-return-type
+  110:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   8:10  error  Missing return type annotation  flowtype/require-return-type
+  13:11  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  39:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  29:21  error  Missing return type annotation  flowtype/require-return-type
+  36:28  error  Missing return type annotation  flowtype/require-return-type
+  45:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  25:10  error  Missing return type annotation  flowtype/require-return-type
+  45:12  error  Missing return type annotation  flowtype/require-return-type
+  51:20  error  Missing return type annotation  flowtype/require-return-type
+  64:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  29:10  error  Missing return type annotation  flowtype/require-return-type
+  58:16  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  10:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsTrustlyConnectedAccountPopoverForChild.js
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsTrustlyConnectedAccountPopoverForParent.js
+  14:10  error  Missing return type annotation  flowtype/require-return-type
+  39:43  error  Missing return type annotation  flowtype/require-return-type
+  50:13  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsTrustlyFailedConnectionContainers.js
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  26:10  error  Missing return type annotation  flowtype/require-return-type
+  39:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   13:10  error  Missing return type annotation  flowtype/require-return-type
+   25:14  error  Missing return type annotation  flowtype/require-return-type
+   34:26  error  Missing return type annotation  flowtype/require-return-type
+   42:26  error  Missing return type annotation  flowtype/require-return-type
+   52:15  error  Missing return type annotation  flowtype/require-return-type
+   67:18  error  Missing return type annotation  flowtype/require-return-type
+   91:22  error  Missing return type annotation  flowtype/require-return-type
+  116:20  error  Missing return type annotation  flowtype/require-return-type
+  130:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  33:21  error  Missing return type annotation  flowtype/require-return-type
+  39:10  error  Missing return type annotation  flowtype/require-return-type
+  88:15  error  Missing return type annotation  flowtype/require-return-type
+  93:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  10:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  15:10  error  Missing return type annotation  flowtype/require-return-type
+  27:21  error  Missing return type annotation  flowtype/require-return-type
+  35:17  error  Missing return type annotation  flowtype/require-return-type
+  42:18  error  Missing return type annotation  flowtype/require-return-type
+  48:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  8:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   63:23  error  Missing return type annotation  flowtype/require-return-type
+   73:25  error  Missing return type annotation  flowtype/require-return-type
+   88:10  error  Missing return type annotation  flowtype/require-return-type
+  110:21  error  Missing return type annotation  flowtype/require-return-type
+  122:22  error  Missing return type annotation  flowtype/require-return-type
+  137:25  error  Missing return type annotation  flowtype/require-return-type
+  158:14  error  Missing return type annotation  flowtype/require-return-type
+  173:16  error  Missing return type annotation  flowtype/require-return-type
+  177:22  error  Missing return type annotation  flowtype/require-return-type
+  188:26  error  Missing return type annotation  flowtype/require-return-type
+  192:12  error  Missing return type annotation  flowtype/require-return-type
+  203:15  error  Missing return type annotation  flowtype/require-return-type
+  245:25  error  Missing return type annotation  flowtype/require-return-type
+  254:33  error  Missing return type annotation  flowtype/require-return-type
+  283:32  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  11:10  error  Missing return type annotation  flowtype/require-return-type
+  24:14  error  Missing return type annotation  flowtype/require-return-type
+  33:17  error  Missing return type annotation  flowtype/require-return-type
+  40:20  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   47:10  error  Missing return type annotation  flowtype/require-return-type
+  100:21  error  Missing return type annotation  flowtype/require-return-type
+  141:22  error  Missing return type annotation  flowtype/require-return-type
+  159:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  23:10  error  Missing return type annotation  flowtype/require-return-type
+  77:28  error  Missing return type annotation  flowtype/require-return-type
+  81:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:10  error  Missing return type annotation  flowtype/require-return-type
+  51:32  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  25:10  error  Missing return type annotation  flowtype/require-return-type
+  63:18  error  Missing return type annotation  flowtype/require-return-type
+  75:16  error  Missing return type annotation  flowtype/require-return-type
+  94:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsTrustlySuccessConnectedChildForChild.js
+  18:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errorsTrustlySuccessConnectedChildForParent.js
+  18:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  40:10  error  Missing return type annotation  flowtype/require-return-type
+  73:28  error  Missing return type annotation  flowtype/require-return-type
+  91:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  13:10  error  Missing return type annotation  flowtype/require-return-type
+  42:20  error  Missing return type annotation  flowtype/require-return-type
+  56:15  error  Missing return type annotation  flowtype/require-return-type
+  69:17  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  18:21  error  Missing return type annotation  flowtype/require-return-type
+  24:17  error  Missing return type annotation  flowtype/require-return-type
+  31:18  error  Missing return type annotation  flowtype/require-return-type
+  37:10  error  Missing return type annotation  flowtype/require-return-type
+  43:15  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  8:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  18:10  error  Missing return type annotation  flowtype/require-return-type
+  34:12  error  Missing return type annotation  flowtype/require-return-type
+  46:23  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   49:21  error  Missing return type annotation  flowtype/require-return-type
+   56:28  error  Missing return type annotation  flowtype/require-return-type
+   66:10  error  Missing return type annotation  flowtype/require-return-type
+  101:20  error  Missing return type annotation  flowtype/require-return-type
+  113:20  error  Missing return type annotation  flowtype/require-return-type
+  123:18  error  Missing return type annotation  flowtype/require-return-type
+  138:19  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  12:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+  31:23  error  Missing return type annotation  flowtype/require-return-type
+  58:12  error  Missing return type annotation  flowtype/require-return-type
+  65:19  error  Missing return type annotation  flowtype/require-return-type
+  78:11  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  17:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   40:21  error  Missing return type annotation  flowtype/require-return-type
+   80:21  error  Missing return type annotation  flowtype/require-return-type
+   85:20  error  Missing return type annotation  flowtype/require-return-type
+  321:14  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   24:13  error  Missing return type annotation  flowtype/require-return-type
+   30:13  error  Missing return type annotation  flowtype/require-return-type
+   35:21  error  Missing return type annotation  flowtype/require-return-type
+   43:13  error  Missing return type annotation  flowtype/require-return-type
+   47:16  error  Missing return type annotation  flowtype/require-return-type
+   52:15  error  Missing return type annotation  flowtype/require-return-type
+  130:24  error  Missing return type annotation  flowtype/require-return-type
+  134:22  error  Missing return type annotation  flowtype/require-return-type
+  138:9   error  Missing return type annotation  flowtype/require-return-type
+  142:13  error  Missing return type annotation  flowtype/require-return-type
+  146:16  error  Missing return type annotation  flowtype/require-return-type
+  150:9   error  Missing return type annotation  flowtype/require-return-type
+  154:15  error  Missing return type annotation  flowtype/require-return-type
+  164:15  error  Missing return type annotation  flowtype/require-return-type
+  169:12  error  Missing return type annotation  flowtype/require-return-type
+  173:26  error  Missing return type annotation  flowtype/require-return-type
+  177:18  error  Missing return type annotation  flowtype/require-return-type
+  189:17  error  Missing return type annotation  flowtype/require-return-type
+  210:10  error  Missing return type annotation  flowtype/require-return-type
+  214:15  error  Missing return type annotation  flowtype/require-return-type
+  225:15  error  Missing return type annotation  flowtype/require-return-type
+  247:15  error  Missing return type annotation  flowtype/require-return-type
+  251:15  error  Missing return type annotation  flowtype/require-return-type
+  271:16  error  Missing return type annotation  flowtype/require-return-type
+  282:15  error  Missing return type annotation  flowtype/require-return-type
+  316:30  error  Missing return type annotation  flowtype/require-return-type
+  320:31  error  Missing return type annotation  flowtype/require-return-type
+  324:19  error  Missing return type annotation  flowtype/require-return-type
+  328:19  error  Missing return type annotation  flowtype/require-return-type
+  333:19  error  Missing return type annotation  flowtype/require-return-type
+  340:32  error  Missing return type annotation  flowtype/require-return-type
+  346:17  error  Missing return type annotation  flowtype/require-return-type
+  357:28  error  Missing return type annotation  flowtype/require-return-type
+  366:15  error  Missing return type annotation  flowtype/require-return-type
+  377:11  error  Missing return type annotation  flowtype/require-return-type
+  382:12  error  Missing return type annotation  flowtype/require-return-type
+  396:12  error  Missing return type annotation  flowtype/require-return-type
+  407:20  error  Missing return type annotation  flowtype/require-return-type
+  417:15  error  Missing return type annotation  flowtype/require-return-type
+  425:22  error  Missing return type annotation  flowtype/require-return-type
+  432:14  error  Missing return type annotation  flowtype/require-return-type
+  438:14  error  Missing return type annotation  flowtype/require-return-type
+  445:24  error  Missing return type annotation  flowtype/require-return-type
+  450:14  error  Missing return type annotation  flowtype/require-return-type
+  456:20  error  Missing return type annotation  flowtype/require-return-type
+  466:20  error  Missing return type annotation  flowtype/require-return-type
+  470:14  error  Missing return type annotation  flowtype/require-return-type
+  474:14  error  Missing return type annotation  flowtype/require-return-type
+  478:14  error  Missing return type annotation  flowtype/require-return-type
+  484:13  error  Missing return type annotation  flowtype/require-return-type
+  498:21  error  Missing return type annotation  flowtype/require-return-type
+  504:27  error  Missing return type annotation  flowtype/require-return-type
+  508:21  error  Missing return type annotation  flowtype/require-return-type
+  512:14  error  Missing return type annotation  flowtype/require-return-type
+  517:22  error  Missing return type annotation  flowtype/require-return-type
+  522:18  error  Missing return type annotation  flowtype/require-return-type
+  526:19  error  Missing return type annotation  flowtype/require-return-type
+  530:28  error  Missing return type annotation  flowtype/require-return-type
+  535:22  error  Missing return type annotation  flowtype/require-return-type
+  539:22  error  Missing return type annotation  flowtype/require-return-type
+  543:21  error  Missing return type annotation  flowtype/require-return-type
+  547:32  error  Missing return type annotation  flowtype/require-return-type
+  552:33  error  Missing return type annotation  flowtype/require-return-type
+  557:33  error  Missing return type annotation  flowtype/require-return-type
+  562:28  error  Missing return type annotation  flowtype/require-return-type
+  566:33  error  Missing return type annotation  flowtype/require-return-type
+  570:28  error  Missing return type annotation  flowtype/require-return-type
+  574:17  error  Missing return type annotation  flowtype/require-return-type
+  579:18  error  Missing return type annotation  flowtype/require-return-type
+  583:19  error  Missing return type annotation  flowtype/require-return-type
+  587:14  error  Missing return type annotation  flowtype/require-return-type
+  591:14  error  Missing return type annotation  flowtype/require-return-type
+  595:14  error  Missing return type annotation  flowtype/require-return-type
+  599:13  error  Missing return type annotation  flowtype/require-return-type
+  604:21  error  Missing return type annotation  flowtype/require-return-type
+  609:21  error  Missing return type annotation  flowtype/require-return-type
+  615:12  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   18:8  error  Missing return type annotation  flowtype/require-return-type
+   19:8  error  Missing return type annotation  flowtype/require-return-type
+   20:8  error  Missing return type annotation  flowtype/require-return-type
+   21:8  error  Missing return type annotation  flowtype/require-return-type
+   23:8  error  Missing return type annotation  flowtype/require-return-type
+   25:8  error  Missing return type annotation  flowtype/require-return-type
+   27:8  error  Missing return type annotation  flowtype/require-return-type
+   35:8  error  Missing return type annotation  flowtype/require-return-type
+   43:8  error  Missing return type annotation  flowtype/require-return-type
+   47:8  error  Missing return type annotation  flowtype/require-return-type
+   53:8  error  Missing return type annotation  flowtype/require-return-type
+   66:8  error  Missing return type annotation  flowtype/require-return-type
+   75:8  error  Missing return type annotation  flowtype/require-return-type
+   80:8  error  Missing return type annotation  flowtype/require-return-type
+   89:8  error  Missing return type annotation  flowtype/require-return-type
+   93:8  error  Missing return type annotation  flowtype/require-return-type
+   99:8  error  Missing return type annotation  flowtype/require-return-type
+  114:8  error  Missing return type annotation  flowtype/require-return-type
+  120:8  error  Missing return type annotation  flowtype/require-return-type
+  139:8  error  Missing return type annotation  flowtype/require-return-type
+  149:8  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  6:18  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  745:9  error  Expected indentation of 2 space characters but found 8  react/jsx-indent
+
+/path/to/file/with/lint/errors
+  111:11  error  Missing return type annotation  flowtype/require-return-type
+  116:12  error  Missing return type annotation  flowtype/require-return-type
+  120:9   error  Missing return type annotation  flowtype/require-return-type
+  124:13  error  Missing return type annotation  flowtype/require-return-type
+  128:15  error  Missing return type annotation  flowtype/require-return-type
+  133:12  error  Missing return type annotation  flowtype/require-return-type
+  137:16  error  Missing return type annotation  flowtype/require-return-type
+  141:9   error  Missing return type annotation  flowtype/require-return-type
+  146:16  error  Missing return type annotation  flowtype/require-return-type
+  152:18  error  Missing return type annotation  flowtype/require-return-type
+  156:17  error  Missing return type annotation  flowtype/require-return-type
+  161:22  error  Missing return type annotation  flowtype/require-return-type
+  165:15  error  Missing return type annotation  flowtype/require-return-type
+  171:16  error  Missing return type annotation  flowtype/require-return-type
+  184:19  error  Missing return type annotation  flowtype/require-return-type
+  189:17  error  Missing return type annotation  flowtype/require-return-type
+  194:24  error  Missing return type annotation  flowtype/require-return-type
+  198:32  error  Missing return type annotation  flowtype/require-return-type
+  202:30  error  Missing return type annotation  flowtype/require-return-type
+  206:31  error  Missing return type annotation  flowtype/require-return-type
+  210:22  error  Missing return type annotation  flowtype/require-return-type
+  216:19  error  Missing return type annotation  flowtype/require-return-type
+  220:12  error  Missing return type annotation  flowtype/require-return-type
+  237:36  error  Missing return type annotation  flowtype/require-return-type
+  248:10  error  Missing return type annotation  flowtype/require-return-type
+  265:28  error  Missing return type annotation  flowtype/require-return-type
+  277:34  error  Missing return type annotation  flowtype/require-return-type
+  289:21  error  Missing return type annotation  flowtype/require-return-type
+  296:15  error  Missing return type annotation  flowtype/require-return-type
+  300:18  error  Missing return type annotation  flowtype/require-return-type
+  304:19  error  Missing return type annotation  flowtype/require-return-type
+  308:28  error  Missing return type annotation  flowtype/require-return-type
+  312:22  error  Missing return type annotation  flowtype/require-return-type
+  316:22  error  Missing return type annotation  flowtype/require-return-type
+  320:21  error  Missing return type annotation  flowtype/require-return-type
+  324:32  error  Missing return type annotation  flowtype/require-return-type
+  329:33  error  Missing return type annotation  flowtype/require-return-type
+  344:33  error  Missing return type annotation  flowtype/require-return-type
+  349:28  error  Missing return type annotation  flowtype/require-return-type
+  354:33  error  Missing return type annotation  flowtype/require-return-type
+  358:28  error  Missing return type annotation  flowtype/require-return-type
+  362:13  error  Missing return type annotation  flowtype/require-return-type
+  367:14  error  Missing return type annotation  flowtype/require-return-type
+  371:14  error  Missing return type annotation  flowtype/require-return-type
+  375:14  error  Missing return type annotation  flowtype/require-return-type
+  379:12  error  Missing return type annotation  flowtype/require-return-type
+  383:21  error  Missing return type annotation  flowtype/require-return-type
+  398:21  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  20:8   error  Missing return type annotation  flowtype/require-return-type
+  56:25  error  Missing return type annotation  flowtype/require-return-type
+  65:10  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+   9:8  error  Missing return type annotation  flowtype/require-return-type
+  13:8  error  Missing return type annotation  flowtype/require-return-type
+  17:8  error  Missing return type annotation  flowtype/require-return-type
+  21:8  error  Missing return type annotation  flowtype/require-return-type
+  35:8  error  Missing return type annotation  flowtype/require-return-type
+  42:8  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  21:8  error  Missing return type annotation  flowtype/require-return-type
+  34:8  error  Missing return type annotation  flowtype/require-return-type
+  48:8  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  22:12  error  Missing return type annotation  flowtype/require-return-type
+  34:29  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  19:12  error  Missing return type annotation  flowtype/require-return-type
+  33:29  error  Missing return type annotation  flowtype/require-return-type
+
+/path/to/file/with/lint/errors
+  27:15  error  Missing return type annotation  flowtype/require-return-type
+  35:12  error  Missing return type annotation  flowtype/require-return-type
+  39:12  error  Missing return type annotation  flowtype/require-return-type
